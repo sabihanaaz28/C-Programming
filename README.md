@@ -1,5 +1,5 @@
 
-# 🧑‍💻 Basic C Programming
+# Basic C Programming
 
 Welcome to the **Basic C Programming** repository! 🚀
 This project is designed for beginners who want to learn the fundamentals of the **C programming language**.
